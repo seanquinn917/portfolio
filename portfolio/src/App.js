@@ -10,12 +10,12 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="Git-link"
+          href="https://github.com/seanquinn917"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check out my github!
         </a>
       </header>
     </div>
